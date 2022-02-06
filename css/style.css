@@ -925,7 +925,7 @@ table th {
 }
 .stage-item:nth-child(1) p:nth-child(4):after {
     content: '';
-    background-image: url('/img/line-3.svg');
+    background-image: url('img/line-3.svg');
     top: 12px;
     right: -71px;
     width: 77px;
