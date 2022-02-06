@@ -88,7 +88,7 @@ a {
 }
 .lang-switcher::before {
     content: '';
-    background-image: url(/img/eng-lang.svg);
+    background-image: url(img/eng-lang.svg);
     left: 0;
     top: 0;
     width: 17px;
@@ -250,14 +250,14 @@ h1 {
     margin-right: 6px;
 }
 .tabs-btn:nth-child(1) a:before {
-    background-image: url('/img/for-individuals-icon.svg');
+    background-image: url('img/for-individuals-icon.svg');
 }
 .tabs-btn:nth-child(2) a:before {
-    background-image: url('/img/for-companies-icon.svg');
+    background-image: url('img/for-companies-icon.svg');
     top: 5px;
 }
 .tabs-btn:nth-child(3) a:before {
-    background-image: url('/img/for-enterprises-icon.svg');
+    background-image: url('img/for-enterprises-icon.svg');
 }
 .tabs-btn.active {
     background: rgb(255 255 255 / 76%);
@@ -397,7 +397,7 @@ h1 {
     color: var(--white);
 }
 .tabs-btn:nth-child(2) a:before {
-    background-image: url('/img/tabs-icon-active.svg');
+    background-image: url('img/tabs-icon-active.svg');
 }
 }
 
@@ -903,7 +903,7 @@ table th {
 }
 .stage-item:nth-child(1) p:nth-child(2):after {
     content: '';
-    background-image: url('/img/line-1.svg');
+    background-image: url('img/line-1.svg');
     top: 26px;
     right: -34px;
     width: 77px;
@@ -914,7 +914,7 @@ table th {
 }
 .stage-item:nth-child(1) p:nth-child(3):after {
     content: '';
-    background-image: url('/img/line-2.svg');
+    background-image: url('img/line-2.svg');
     top: -32px;
     right: -72px;
     width: 77px;
@@ -936,7 +936,7 @@ table th {
 }
 .stage-item:nth-child(1) p:nth-child(5):after {
     content: '';
-    background-image: url('/img/line-4.svg');
+    background-image: url('img/line-4.svg');
     top: -62px;
     right: -84px;
     width: 77px;
@@ -947,7 +947,7 @@ table th {
 }
 .stage-item:nth-child(2) p:nth-child(2):after {
     content: '';
-    background-image: url('/img/line-5.svg');
+    background-image: url('img/line-5.svg');
     top: 20px;
     right: -47px;
     width: 59px;
@@ -958,7 +958,7 @@ table th {
 }
 .stage-item:nth-child(2) p:nth-child(3):after {
     content: '';
-    background-image: url('/img/line-6.svg');
+    background-image: url('img/line-6.svg');
     top: 20px;
     right: -81px;
     width: 63px;
@@ -969,7 +969,7 @@ table th {
 }
 .stage-item:nth-child(2) p:nth-child(4):after {
     content: '';
-    background-image: url('/img/line-7.svg');
+    background-image: url('img/line-7.svg');
     top: -34px;
     right: -59px;
     width: 63px;
@@ -980,7 +980,7 @@ table th {
 }
 .stage-item:nth-child(2) p:nth-child(5):after {
     content: '';
-    background-image: url('/img/line-8.svg');
+    background-image: url('img/line-8.svg');
     top: -102px;
     right: -71px;
     width: 63px;
@@ -991,7 +991,7 @@ table th {
 }
 .stage-item:nth-child(3) p:nth-child(2):after {
     content: '';
-    background-image: url('/img/line-9.svg');
+    background-image: url('img/line-9.svg');
     top: 21px;
     right: -71px;
     width: 63px;
@@ -1002,7 +1002,7 @@ table th {
 }
 .stage-item:nth-child(3) p:nth-child(3):after {
     content: '';
-    background-image: url('/img/line-10.svg');
+    background-image: url('img/line-10.svg');
     top: 16px;
     right: -79px;
     width: 68px;
@@ -1013,7 +1013,7 @@ table th {
 }
 .stage-item:nth-child(3) p:nth-child(4):after {
     content: '';
-    background-image: url('/img/line-11.svg');
+    background-image: url('img/line-11.svg');
     top: -4px;
     right: -40px;
     width: 68px;
@@ -1024,7 +1024,7 @@ table th {
 }
 .stage-item:nth-child(3) p:nth-child(5):after {
     content: '';
-    background-image: url('/img/line-12.svg');
+    background-image: url('img/line-12.svg');
     top: -107px;
     right: -70px;
     width: 67px;
