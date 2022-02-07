@@ -427,7 +427,7 @@ h1 {
 .right-col img {
     width: -webkit-fill-available;
 }
-.tabs-content {
+.tab-content {
     display: flex;
     flex-direction: column;
 }
@@ -435,7 +435,7 @@ h1 {
     margin-right: 0;
     margin-bottom: 20px;
 }
-.tabs-content .buttons {
+.tab-content .buttons {
     display: flex;
     flex-direction: column;
 }
@@ -936,7 +936,7 @@ table th {
 }
 .stage-item:nth-child(1) p:nth-child(5):after {
     content: '';
-    background-image: url('img/line-4.svg');
+    background-image: url('../img/line-4.svg');
     top: -62px;
     right: -84px;
     width: 77px;
